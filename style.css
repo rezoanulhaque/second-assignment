@@ -1,0 +1,109 @@
+.my-color{
+    color: black;
+    font-weight: 500;
+}
+.my-btn{
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+}
+h1{
+    font-weight: 700;
+}
+header{
+    background-color: #F0FFF0;
+}
+.my-photo-size{
+    width: 100%;
+}
+.header-body{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#red{
+    color: red;
+}
+#green{
+    color: #218838;
+}
+p{
+    line-height: 40px;
+}
+.won-card-1 img{
+    width: 80px;
+    height: 83px;
+}
+.won-card-1{
+    margin: 25px 0;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+.won-card-1 h5{
+    padding-top: 20px;
+    color: #413960;
+}
+.won-card-1 p{
+    color: #585859;
+}
+.won-card-1:hover{
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+}
+.text-align-center{
+    text-align: center;
+    font-weight: 900;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #413960;
+}
+.won-card-2{
+    border-radius: 15px;
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    overflow: hidden;
+    padding: 10px;
+}
+.won-card-2 h5{
+    font-weight: 500;
+    color: #413960;
+    padding-top: 20px;
+}
+.my-photo-size-icon{
+    width: 8%;
+}
+.my-style-card-footer{
+    margin-top: 10px;
+}
+.text-align-center-2{
+    text-align: center;
+    font-weight: 900;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.my-photo-size-man{
+    width: 120px;
+    float: right;
+}
+.testi-pad{
+    padding-bottom: 100px;
+}
+footer{
+    background-color: #282531;
+    color: #ffffff;
+}
+.footer-content{
+    margin: 70px 0;
+}
+.footer-content p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.footer-content ul li{
+    list-style: none;
+    font-size: 16px;
+    line-height: 30px;
+
+}
